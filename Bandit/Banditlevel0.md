@@ -1,9 +1,5 @@
-# The file is for Bandit level 
+# The file is for Bandit level 0
 
-## hhhhhh
+## username bandit0
 
-*where are you*
-
-```bash
-echo "new" > file.txt
-```
+*password bandit0*
